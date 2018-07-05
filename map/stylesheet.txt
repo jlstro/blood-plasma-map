@@ -1,0 +1,37 @@
+Map Stylesheet // most color schemes stolen from here:
+https://iancul.com/project/calgary-chamber/
+
+grau
+#4B4B4D
+#6F6F71 border crossing color
+#9C9D9F
+#C5C6C8
+
+petrol employment
+#013646 45.5-
+#015764 55.1-
+#017783 63-
+#0198A1 63+
+
+purple
+#570B56 center color
+#7A0B69
+#E30059
+
+rot-braun Armut / 66%
+#700D10 13-
+#940D13 13-20
+#EF7F01 20-28
+#FDCC03 28+
+
+grün - insurance / 55%
+#004318 79-
+#016B29 79-85
+#6AAF21 85-90
+#BCCD02 90-98
+
+blau - income / 60%
+#002458 40784-
+#01388B 51980-
+#0474BC 68929-
+#009DE0 68929+
